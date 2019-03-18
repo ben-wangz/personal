@@ -1,4 +1,4 @@
 # personal
 ## resume
-* [中文版](resume/chinese.html)
-* [English Version](resume/english.html)
+* [中文版](resume/chinese.resume.pdf)
+* [English Version](resume/english.resume.pdf)
